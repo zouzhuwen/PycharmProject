@@ -1,0 +1,114 @@
+2019-08-16 17:29:08,859 logging_test.py[line:7][DEBUG]debug info
+2019-08-16 17:29:08,859 logging_test.py[line:8][INFO]hell python
+2019-08-16 17:29:08,859 logging_test.py[line:9][WARNING]warning info
+2019-08-16 17:29:08,859 logging_test.py[line:10][CRITICAL]critical info
+2019-08-16 17:29:08,869 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-16 17:29:09,154 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'
+2019-08-16 17:30:13,263 logging_test.py[line:7][DEBUG]debug info
+2019-08-16 17:30:13,263 logging_test.py[line:8][INFO]hell python
+2019-08-16 17:30:13,263 logging_test.py[line:9][WARNING]warning info
+2019-08-16 17:30:13,263 logging_test.py[line:10][CRITICAL]critical info
+2019-08-16 17:30:13,263 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-16 17:30:13,279 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'
+2019-08-16 17:32:55,863 logging_test.py[line:7][DEBUG]debug info
+2019-08-16 17:32:55,864 logging_test.py[line:8][INFO]hell python
+2019-08-16 17:32:55,864 logging_test.py[line:9][WARNING]warning info
+2019-08-16 17:32:55,864 logging_test.py[line:10][CRITICAL]critical info
+2019-08-16 17:32:55,864 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-16 17:32:55,881 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'
+2019-08-16 17:33:50,289 logging_test.py[line:7][DEBUG]debug info
+2019-08-16 17:33:50,289 logging_test.py[line:8][INFO]hell python
+2019-08-16 17:33:50,289 logging_test.py[line:9][WARNING]warning info
+2019-08-16 17:33:50,289 logging_test.py[line:10][CRITICAL]critical info
+2019-08-16 17:33:50,289 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-16 17:33:50,302 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'
+2019-08-16 17:49:34,704 logging_test.py[line:7][DEBUG]debug info
+2019-08-16 17:49:34,704 logging_test.py[line:8][INFO]hell python
+2019-08-16 17:49:34,704 logging_test.py[line:9][WARNING]warning info
+2019-08-16 17:49:34,704 logging_test.py[line:10][CRITICAL]critical info
+2019-08-16 17:49:34,704 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-16 17:49:34,722 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'
+2019-08-16 17:52:50,667 logging_test.py[line:7][DEBUG]debug info
+2019-08-16 17:52:50,667 logging_test.py[line:8][INFO]hell python
+2019-08-16 17:52:50,667 logging_test.py[line:9][WARNING]warning info
+2019-08-16 17:52:50,667 logging_test.py[line:10][CRITICAL]critical info
+2019-08-16 17:52:50,667 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-16 17:52:50,685 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'
+2019-08-16 17:53:07,428 logging_test.py[line:7][DEBUG]debug info
+2019-08-16 17:53:07,428 logging_test.py[line:8][INFO]hell python
+2019-08-16 17:53:07,429 logging_test.py[line:9][WARNING]warning info
+2019-08-16 17:53:07,429 logging_test.py[line:10][CRITICAL]critical info
+2019-08-16 17:53:07,429 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-16 17:53:07,444 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'
+2019-08-16 17:53:18,091 logging_test.py[line:7][DEBUG]debug info
+2019-08-16 17:53:18,091 logging_test.py[line:8][INFO]hell python
+2019-08-16 17:53:18,091 logging_test.py[line:9][WARNING]warning info
+2019-08-16 17:53:18,092 logging_test.py[line:10][CRITICAL]critical info
+2019-08-16 17:53:18,092 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-16 17:53:18,105 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'
+2019-08-16 17:57:46,348 logging_test.py[line:7][DEBUG]debug info
+2019-08-16 17:57:46,348 logging_test.py[line:8][INFO]hell python
+2019-08-16 17:57:46,348 logging_test.py[line:9][WARNING]warning info
+2019-08-16 17:57:46,348 logging_test.py[line:10][CRITICAL]critical info
+2019-08-16 17:57:46,349 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-16 17:57:46,369 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'
+2019-08-16 17:58:14,752 logging_test.py[line:7][DEBUG]debug info
+2019-08-16 17:58:14,753 logging_test.py[line:8][INFO]hell python
+2019-08-16 17:58:14,753 logging_test.py[line:9][WARNING]warning info
+2019-08-16 17:58:14,753 logging_test.py[line:10][CRITICAL]critical info
+2019-08-16 17:58:14,753 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-16 17:58:14,771 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'
+2019-08-16 17:58:28,960 logging_test.py[line:7][DEBUG]debug info
+2019-08-16 17:58:28,960 logging_test.py[line:8][INFO]hell python
+2019-08-16 17:58:28,960 logging_test.py[line:9][WARNING]warning info
+2019-08-16 17:58:28,960 logging_test.py[line:10][CRITICAL]critical info
+2019-08-16 17:58:28,961 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-16 17:58:28,974 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'
+2019-08-17 12:49:32,775 logging_test.py[line:7][DEBUG]debug info
+2019-08-17 12:49:32,775 logging_test.py[line:8][INFO]hell python
+2019-08-17 12:49:32,775 logging_test.py[line:9][WARNING]warning info
+2019-08-17 12:49:32,775 logging_test.py[line:10][CRITICAL]critical info
+2019-08-17 12:49:32,775 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-17 12:49:32,792 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'
+2019-08-17 12:50:12,082 logging_test.py[line:7][DEBUG]debug info
+2019-08-17 12:50:12,083 logging_test.py[line:8][INFO]hell python
+2019-08-17 12:50:12,083 logging_test.py[line:9][WARNING]warning info
+2019-08-17 12:50:12,083 logging_test.py[line:10][CRITICAL]critical info
+2019-08-17 12:50:12,084 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-17 12:50:12,101 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'
+2019-08-17 13:07:34,231 logging_test.py[line:7][DEBUG]debug info
+2019-08-17 13:07:34,231 logging_test.py[line:8][INFO]hell python
+2019-08-17 13:07:34,232 logging_test.py[line:9][WARNING]warning info
+2019-08-17 13:07:34,232 logging_test.py[line:10][CRITICAL]critical info
+2019-08-17 13:07:34,232 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-17 13:07:34,252 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'
+2019-08-17 13:08:21,490 logging_test.py[line:7][DEBUG]debug info
+2019-08-17 13:08:21,490 logging_test.py[line:8][INFO]hell python
+2019-08-17 13:08:21,490 logging_test.py[line:9][WARNING]warning info
+2019-08-17 13:08:21,490 logging_test.py[line:10][CRITICAL]critical info
+2019-08-17 13:08:21,490 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-17 13:08:21,509 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'
+2019-08-17 13:08:58,296 logging_test.py[line:7][DEBUG]debug info
+2019-08-17 13:08:58,296 logging_test.py[line:8][INFO]hell python
+2019-08-17 13:08:58,296 logging_test.py[line:9][WARNING]warning info
+2019-08-17 13:08:58,296 logging_test.py[line:10][CRITICAL]critical info
+2019-08-17 13:08:58,296 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-17 13:08:58,314 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'
+2019-08-17 13:23:59,455 logging_test.py[line:7][DEBUG]debug info
+2019-08-17 13:23:59,456 logging_test.py[line:8][INFO]hell python
+2019-08-17 13:23:59,456 logging_test.py[line:9][WARNING]warning info
+2019-08-17 13:23:59,456 logging_test.py[line:10][CRITICAL]critical info
+2019-08-17 13:23:59,456 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-17 13:23:59,475 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'
+2019-08-17 13:24:22,139 logging_test.py[line:7][DEBUG]debug info
+2019-08-17 13:24:22,139 logging_test.py[line:8][INFO]hell python
+2019-08-17 13:24:22,139 logging_test.py[line:9][WARNING]warning info
+2019-08-17 13:24:22,139 logging_test.py[line:10][CRITICAL]critical info
+2019-08-17 13:24:22,140 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-17 13:24:22,158 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'
+2019-08-17 13:24:48,059 logging_test.py[line:7][DEBUG]debug info
+2019-08-17 13:24:48,059 logging_test.py[line:8][INFO]hell python
+2019-08-17 13:24:48,059 logging_test.py[line:9][WARNING]warning info
+2019-08-17 13:24:48,059 logging_test.py[line:10][CRITICAL]critical info
+2019-08-17 13:24:48,060 plugin.py[line:303][DEBUG]import pyexcel_xls.xlsr.XLSBook
+2019-08-17 13:24:48,087 plugin.py[line:287][DEBUG]load <class 'pyexcel_xls.xlsr.XLSBook'> now for 'xlsx'

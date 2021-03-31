@@ -1,0 +1,10 @@
+test
+test
+2021-02-03 21:48:56,690 user_log.py <module> 10 DEBUG test1234
+2021-02-03 21:51:17,376 user_log.py--><module> 10: DEBUG--->test1234
+2021-02-03 22:17:06,261 user_log.py--><module> 10: DEBUG--->test1234
+2021-02-03 22:18:42,180 user_log.py--><module> 10: DEBUG--->test1234
+2021-02-03 22:18:57,397 user_log.py--><module> 10: DEBUG--->test1234
+2021-02-03 22:19:20,070 user_log.py--><module> 10: DEBUG--->test1234
+2021-02-03 22:19:56,179 user_log.py--><module> 10: DEBUG--->test1234
+2021-02-03 22:21:36,605 user_log.py--><module> 10: DEBUG--->test1234

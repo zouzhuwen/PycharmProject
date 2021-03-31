@@ -1,0 +1,59 @@
+2019-05-27 15:05:19,389 desired_caps.py[line:31] INFO start app...
+2019-05-27 15:10:58,319 desired_caps.py[line:31] INFO start app...
+2019-05-27 15:14:23,907 desired_caps.py[line:31] INFO start app...
+2019-05-27 15:21:05,842 desired_caps.py[line:33] INFO start app...
+2019-05-27 15:27:00,282 desired_caps.py[line:33] INFO start app...
+2019-05-28 15:26:02,368 desired_caps.py[line:33] INFO start app...
+2019-05-28 15:26:22,276 common_fun.py[line:14] INFO ==========check_cancelBtn============
+2019-05-28 15:26:29,267 common_fun.py[line:21] INFO ==========click cancelBtn==========
+2019-05-28 15:26:29,267 common_fun.py[line:39] INFO swipeLeft
+2019-05-28 15:27:00,405 desired_caps.py[line:33] INFO start app...
+2019-05-28 15:27:19,144 common_fun.py[line:14] INFO ==========check_cancelBtn============
+2019-05-28 15:27:20,075 common_fun.py[line:21] INFO ==========click cancelBtn==========
+2019-05-28 15:27:20,075 common_fun.py[line:39] INFO swipeLeft
+2019-05-28 15:27:20,664 common_fun.py[line:54] INFO get startApp screenshot
+2019-05-28 15:28:04,177 desired_caps.py[line:33] INFO start app...
+2019-05-28 15:28:23,147 common_fun.py[line:14] INFO ==========check_cancelBtn============
+2019-05-28 15:28:32,003 common_fun.py[line:21] INFO ==========click cancelBtn==========
+2019-05-28 15:28:32,003 common_fun.py[line:39] INFO swipeLeft
+2019-05-28 15:28:32,637 common_fun.py[line:54] INFO get startApp screenshot
+2019-05-28 15:36:48,148 desired_caps.py[line:33] INFO start app...
+2019-05-28 15:37:05,592 common_fun.py[line:14] INFO ==========check_cancelBtn============
+2019-05-28 15:37:12,542 common_fun.py[line:21] INFO ==========click cancelBtn==========
+2019-05-28 15:37:12,542 common_fun.py[line:39] INFO swipeLeft
+2019-05-28 15:37:13,148 common_fun.py[line:54] INFO get startApp screenshot
+2019-05-28 15:40:15,875 desired_caps.py[line:33] INFO start app...
+2019-05-28 15:40:33,112 common_fun.py[line:14] INFO ==========check_cancelBtn============
+2019-05-28 15:40:36,955 common_fun.py[line:21] INFO ==========click cancelBtn==========
+2019-05-28 15:40:36,956 common_fun.py[line:39] INFO swipeLeft
+2019-05-28 15:40:37,557 common_fun.py[line:55] INFO get startApp screenshot
+2019-05-28 15:41:15,698 desired_caps.py[line:33] INFO start app...
+2019-05-28 15:41:33,821 common_fun.py[line:14] INFO ==========check_cancelBtn============
+2019-05-28 15:41:34,940 common_fun.py[line:21] INFO ==========click cancelBtn==========
+2019-05-28 15:41:34,940 common_fun.py[line:39] INFO swipeLeft
+2019-05-28 15:41:35,467 common_fun.py[line:54] INFO get startApp screenshot
+2019-05-28 15:42:11,750 desired_caps.py[line:33] INFO start app...
+2019-05-28 15:42:32,667 common_fun.py[line:14] INFO ==========check_cancelBtn============
+2019-05-28 15:42:39,677 common_fun.py[line:21] INFO ==========click cancelBtn==========
+2019-05-28 15:42:39,677 common_fun.py[line:39] INFO swipeLeft
+2019-05-28 15:42:40,247 common_fun.py[line:54] INFO get startApp screenshot
+2019-05-28 17:06:57,756 desired_caps.py[line:33] INFO start app...
+2019-05-28 17:07:17,373 common_fun.py[line:16] INFO ==========check_cancelBtn============
+2019-05-28 17:07:17,455 common_fun.py[line:20] INFO no cancelBtn
+2019-05-28 17:07:17,456 common_fun.py[line:41] INFO swipeLeft
+2019-05-28 17:07:18,029 common_fun.py[line:56] INFO get startApp screenshot
+2019-05-28 17:08:25,845 desired_caps.py[line:33] INFO start app...
+2019-05-28 17:08:42,304 common_fun.py[line:16] INFO ==========check_cancelBtn============
+2019-05-28 17:08:42,365 common_fun.py[line:20] INFO no cancelBtn
+2019-05-28 17:08:42,365 common_fun.py[line:41] INFO swipeLeft
+2019-05-28 17:08:42,916 common_fun.py[line:56] INFO get startApp screenshot
+2019-05-28 17:10:27,003 desired_caps.py[line:33] INFO start app...
+2019-05-28 17:10:43,391 common_fun.py[line:16] INFO ==========check_cancelBtn============
+2019-05-28 17:10:43,426 common_fun.py[line:20] INFO no cancelBtn
+2019-05-28 17:10:43,426 common_fun.py[line:41] INFO swipeLeft
+2019-05-28 17:10:43,963 common_fun.py[line:56] INFO get startApp screenshot
+2019-05-28 17:11:26,224 desired_caps.py[line:33] INFO start app...
+2019-05-28 17:11:44,832 common_fun.py[line:16] INFO ==========check_cancelBtn============
+2019-05-28 17:11:45,904 common_fun.py[line:23] INFO ==========click cancelBtn==========
+2019-05-28 17:11:45,904 common_fun.py[line:41] INFO swipeLeft
+2019-05-28 17:11:46,515 common_fun.py[line:56] INFO get startApp screenshot

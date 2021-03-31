@@ -1,0 +1,22 @@
+2019-05-24 15:00:15,496 kyb_logger.py[line:24] [INFO] start app...
+2019-05-24 15:00:15,511 kyb_logger.py[line:28] [INFO] check_cancelBtn
+2019-05-24 15:00:21,052 kyb_logger.py[line:33] [INFO] no cancelBtn
+2019-05-24 15:00:21,052 kyb_logger.py[line:36] [INFO] check_skipBtn
+2019-05-24 15:00:26,076 kyb_logger.py[line:41] [INFO] no skipBtn
+2019-05-24 15:01:26,003 kyb_logger.py[line:24] [INFO] start app...
+2019-05-24 15:01:26,013 kyb_logger.py[line:28] [INFO] check_cancelBtn
+2019-05-24 15:01:31,739 kyb_logger.py[line:36] [INFO] check_skipBtn
+2019-05-24 15:41:19,328 kyb_logconf.py[line:27] INFO start app...
+2019-05-24 15:41:19,339 kyb_logconf.py[line:31] INFO check_cancelBtn
+2019-05-24 15:41:25,190 kyb_logconf.py[line:39] INFO check_skipBtn
+2019-05-24 15:48:58,275 kyb_logconf.py[line:27] INFO start app...
+2019-05-24 15:48:58,289 kyb_logconf.py[line:31] INFO check_cancelBtn
+2019-05-24 15:49:04,201 kyb_logconf.py[line:39] INFO check_skipBtn
+2019-05-24 15:49:58,911 kyb_logconf.py[line:27] INFO start app...
+2019-05-24 15:49:58,933 kyb_logconf.py[line:31] INFO check_cancelBtn
+2019-05-24 15:49:59,806 kyb_logconf.py[line:39] INFO check_skipBtn
+2019-05-24 18:37:16,222 kyb_logconf.py[line:27] INFO start app...
+2019-05-24 18:37:16,338 kyb_logconf.py[line:31] INFO check_cancelBtn
+2019-05-24 18:37:21,766 kyb_logconf.py[line:36] INFO no cancelBtn
+2019-05-24 18:37:21,766 kyb_logconf.py[line:39] INFO check_skipBtn
+2019-05-24 18:37:27,265 kyb_logconf.py[line:44] INFO no skipBtn
