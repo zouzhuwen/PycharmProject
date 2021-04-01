@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fa6b1c0-cfe8-46cf-beb3-b3db6140d9cc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Appium" afterPath="$PROJECT_DIR$/Appium" />
+      <change beforePath="$PROJECT_DIR$/Git" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/meetyou_automation" afterPath="$PROJECT_DIR$/meetyou_automation" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PycharmProject$common.coverage" NAME="common Coverage Results" MODIFIED="1614855094669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnodeapiTest/business" />
+    <SUITE FILE_PATH="coverage/PycharmProject$Unittests_for_first_ddt_case_FirstDdtCase.coverage" NAME="Unittests for first_ddt_case.FirstDdtCase Coverage Results" MODIFIED="1610960065100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/case" />
+    <SUITE FILE_PATH="coverage/PycharmProject$Unittests_in_ddt_test_py.coverage" NAME="Unittests in ddt_test.py Coverage Results" MODIFIED="1610946645293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/case" />
+    <SUITE FILE_PATH="coverage/PycharmProject$Unittests_for_unittest_case_FirstCase01.coverage" NAME="Unittests for unittest_case.FirstCase01 Coverage Results" MODIFIED="1610813918556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/case" />
+    <SUITE FILE_PATH="coverage/PycharmProject$first_case.coverage" NAME="first_case.py Coverage Results" MODIFIED="1610979964666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/case" />
+    <SUITE FILE_PATH="coverage/PycharmProject$py_test_in_first_ddt_case_py.coverage" NAME="py.test in first_ddt_case.py Coverage Results" MODIFIED="1610979185753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/case" />
+    <SUITE FILE_PATH="coverage/PycharmProject$user_log.coverage" NAME="user_log Coverage Results" MODIFIED="1612689262637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/log" />
+    <SUITE FILE_PATH="coverage/PycharmProject$start_brrowser.coverage" NAME="start_brrowser Coverage Results" MODIFIED="1610116775465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
+    <SUITE FILE_PATH="coverage/PycharmProject$maopao.coverage" NAME="maopao Coverage Results" MODIFIED="1614344426284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_01" />
+    <SUITE FILE_PATH="coverage/PycharmProject$unittest_case.coverage" NAME="unittest_case Coverage Results" MODIFIED="1610864228495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PycharmProject$read_ini.coverage" NAME="read_ini Coverage Results" MODIFIED="1610267886947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/util" />
+    <SUITE FILE_PATH="coverage/PycharmProject$Unittests_for_register_handle_RegisterHandle.coverage" NAME="Unittests for register_handle.RegisterHandle Coverage Results" MODIFIED="1610960327016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/handle" />
+    <SUITE FILE_PATH="coverage/PycharmProject$first_ddt_case_py.coverage" NAME="first_ddt_case.py Coverage Results" MODIFIED="1611122066099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/case" />
+    <SUITE FILE_PATH="coverage/PycharmProject$regular.coverage" NAME="regular Coverage Results" MODIFIED="1573656279199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础/03web服务器/正则表达式" />
+    <SUITE FILE_PATH="coverage/PycharmProject$register_page.coverage" NAME="register_page Coverage Results" MODIFIED="1610808923834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/page" />
+    <SUITE FILE_PATH="coverage/PycharmProject$ootest_topics.coverage" NAME="ootest_topics Coverage Results" MODIFIED="1614351104253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnodeapiTest/testcases" />
+    <SUITE FILE_PATH="coverage/PycharmProject$excel_util.coverage" NAME="excel_util Coverage Results" MODIFIED="1611216328956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/util" />
+    <SUITE FILE_PATH="coverage/PycharmProject$test_topics.coverage" NAME="test_topics Coverage Results" MODIFIED="1615132373856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnodeapiTest/testcases" />
+    <SUITE FILE_PATH="coverage/PycharmProject$epollhttp.coverage" NAME="epoll版的http服务器 Coverage Results" MODIFIED="1575907667431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础/03web服务器/并发web服务器实现" />
+    <SUITE FILE_PATH="coverage/PycharmProject$Unittests_in_first_ddt_case_py.coverage" NAME="Unittests in first_ddt_case.py Coverage Results" MODIFIED="1610975288222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/case" />
+    <SUITE FILE_PATH="coverage/PycharmProject$keyword_case.coverage" NAME="keyword_case Coverage Results" MODIFIED="1611585927838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/case" />
+    <SUITE FILE_PATH="coverage/PycharmProject$.coverage" NAME="单进程、线程、非阻塞、长连接 Coverage Results" MODIFIED="1575820468642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础/03web服务器/并发web服务器实现" />
+    <SUITE FILE_PATH="coverage/PycharmProject$read_image.coverage" NAME="read_image Coverage Results" MODIFIED="1609859409159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
+    <SUITE FILE_PATH="coverage/PycharmProject$Unittests_in_unittest_case_py.coverage" NAME="Unittests in unittest_case.py Coverage Results" MODIFIED="1610860668300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/case" />
+    <SUITE FILE_PATH="coverage/PycharmProject$regisster_business.coverage" NAME="regisster_business Coverage Results" MODIFIED="1610960155282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/business" />
+    <SUITE FILE_PATH="coverage/PycharmProject$Unittests_in_unittest_case02_py.coverage" NAME="Unittests in unittest_case02.py Coverage Results" MODIFIED="1610864266660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/case" />
+    <SUITE FILE_PATH="coverage/PycharmProject$py_test_for_test_uninormal_test_carte_topic.coverage" NAME="py.test for test_uninormal.test_carte_topic Coverage Results" MODIFIED="1615733674635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnodeapiTest/testcases/.pytest_cache" />
+    <SUITE FILE_PATH="coverage/PycharmProject$Unittests_in_v2ex_api_test_case_py.coverage" NAME="Unittests in v2ex_api_test_case.py Coverage Results" MODIFIED="1571666381346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础/接口学习/postman" />
+    <SUITE FILE_PATH="coverage/PycharmProject$Unittests_for_unittest_case02_FirstCase02.coverage" NAME="Unittests for unittest_case02.FirstCase02 Coverage Results" MODIFIED="1610864206738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/case" />
+    <SUITE FILE_PATH="coverage/PycharmProject$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1569838469246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础/多任务/协程" />
+    <SUITE FILE_PATH="coverage/PycharmProject$run_case.coverage" NAME="run_case Coverage Results" MODIFIED="1610867339536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/case" />
+    <SUITE FILE_PATH="coverage/PycharmProject$register_code__1_.coverage" NAME="register_code (1) Coverage Results" MODIFIED="1610268276485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium" />
+    <SUITE FILE_PATH="coverage/PycharmProject$register_function.coverage" NAME="register_function Coverage Results" MODIFIED="1610355214584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium" />
+    <SUITE FILE_PATH="coverage/PycharmProject$http.coverage" NAME="返回固定页面的http服务器 Coverage Results" MODIFIED="1575819080720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础/03web服务器/http协议" />
+    <SUITE FILE_PATH="coverage/PycharmProject$actionMethod.coverage" NAME="actionMethod Coverage Results" MODIFIED="1611500139773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/keywordselenium" />
+    <SUITE FILE_PATH="coverage/PycharmProject$first_case_py.coverage" NAME="first_case.py Coverage Results" MODIFIED="1612767249562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/case" />
+    <SUITE FILE_PATH="coverage/PycharmProject$register_code.coverage" NAME="register_code Coverage Results" MODIFIED="1609864470444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
+    <SUITE FILE_PATH="coverage/PycharmProject$start_brrowser__1_.coverage" NAME="start_brrowser (1) Coverage Results" MODIFIED="1610117043312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium" />
+    <SUITE FILE_PATH="coverage/PycharmProject$Unittests_in_first_case_py.coverage" NAME="Unittests in first_case.py Coverage Results" MODIFIED="1610977529390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc_selenium/case" />
+    <SUITE FILE_PATH="coverage/PycharmProject$py_test_in_test_topics_py.coverage" NAME="py.test in test_topics.py Coverage Results" MODIFIED="1615733762720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnodeapiTest/testcases" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test_topics.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cnodeapiTest/testcases/test_topics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="e#15#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_uninormal.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnodeapiTest/testcases/.pytest_cache/test_uninormal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnodeapiTest/business/common.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>width = code_element.size[&quot;width&quot;]</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mooc_selenium/util/read_ini.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/find_element.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/register_function.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/case/__init__.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/base/find_element.py" />
+        <option value="D:/Program Files/Python37/Lib/unittest/case.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/case/unittest_case.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/case/unittest_case02.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/case/run_case.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/report/first_case.html.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/util/get_code.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/case/ddt_test.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/business/regisster_business.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/handle/register_handle.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/case/first_ddt_case.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/config/LocalElement.ini" />
+        <option value="$PROJECT_DIR$/mooc_selenium/page/register_page.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/keyword/__init__.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/case/key.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/keyword/actionMethod.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/keywordselenium/actionMethod.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/case/keyword_case.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/util/excel_util.py" />
+        <option value="$PROJECT_DIR$/SeleniumPythonBDD/register.feature.py" />
+        <option value="$PROJECT_DIR$/SeleniumPythonBDD/register.feature" />
+        <option value="$PROJECT_DIR$/SeleniumPythonBDD/features/envi.py" />
+        <option value="$PROJECT_DIR$/SeleniumPythonBDD/steps/register_user.py" />
+        <option value="$PROJECT_DIR$/SeleniumPythonBDD/features/environment.py" />
+        <option value="$PROJECT_DIR$/SeleniumPythonBDD/features/register.feature" />
+        <option value="$PROJECT_DIR$/SeleniumPythonBDD/features/lib/pages/base_page.py" />
+        <option value="$PROJECT_DIR$/SeleniumPythonBDD/features/lib/pages/register_page.py" />
+        <option value="$PROJECT_DIR$/SeleniumPythonBDD/features/__init__.py" />
+        <option value="$PROJECT_DIR$/SeleniumPythonBDD/__init__.py" />
+        <option value="$PROJECT_DIR$/SeleniumPythonBDD/features/steps/register_user.py" />
+        <option value="$PROJECT_DIR$/SELNIUMPYTHONBDD/__init__.py" />
+        <option value="$PROJECT_DIR$/SELNIUMPYTHONBDD/features/steps/register_user.py" />
+        <option value="$PROJECT_DIR$/SELNIUMPYTHONBDD/features/lib/pages/register_page.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/log/logs/2021-02-03.log" />
+        <option value="$PROJECT_DIR$/mooc_selenium/log/logs/2021-02-07.log" />
+        <option value="$PROJECT_DIR$/mooc_selenium/case/first_case.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/log/user_log.py" />
+        <option value="$PROJECT_DIR$/mooc_selenium/log/logs/2021-02-08.log" />
+        <option value="$PROJECT_DIR$/project_01/maopao.py" />
+        <option value="$PROJECT_DIR$/cnodeapiTest/testcases/ootest_topics.py" />
+        <option value="$PROJECT_DIR$/cnodeapiTest/readme.md" />
+        <option value="$PROJECT_DIR$/cnodeapiTest/business/__init__.py" />
+        <option value="$PROJECT_DIR$/cnodeapiTest/testcases/__init__.py" />
+        <option value="$PROJECT_DIR$/cnodeapiTest/testcases/test_topics.py" />
+        <option value="$PROJECT_DIR$/cnodeapiTest/testcases/.pytest_cache/test.py" />
+        <option value="$PROJECT_DIR$/cnodeapiTest/business/common.py" />
+        <option value="$PROJECT_DIR$/cnodeapiTest/testcases/.pytest_cache/test_uninormal.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="760" />
+    <option name="y" value="23" />
+    <option name="width" value="1151" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="PycharmProject" type="cbb8eebc:String" user="PycharmProject" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="PycharmProject" type="cbb8eebc:String" user="PycharmProject" />
+              <item name="selenium" type="cbb8eebc:String" user="selenium" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PycharmProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="last_opened_file_path" value="D:/Program Files/Python37" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/PycharmProject/selenium/start_brrowser.py" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PycharmProject" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PycharmProject" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProject\cnodeapiTest" />
+      <recent name="D:\PycharmProject\mooc_selenium\log" />
+      <recent name="D:\PycharmProject\SeleniumPythonBDD\features\lib\pages" />
+      <recent name="D:\PycharmProject\SeleniumPythonBDD\features\lib" />
+      <recent name="D:\PycharmProject\SeleniumPythonBDD\features\steps" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProject\SeleniumPythonBDD\features" />
+      <recent name="D:\PycharmProject\selenium\util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.py.test in test_topics.py">
+    <configuration name="common" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cnodeapiTest/business" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cnodeapiTest/business/common.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="first_ddt_case.py" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mooc_selenium/case" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mooc_selenium/case/first_ddt_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ootest_topics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cnodeapiTest/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\PycharmProject\cnodeapiTest\testcases\test_topics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test_topics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cnodeapiTest/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cnodeapiTest/testcases/test_topics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="unittest_case.py" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mooc_selenium/case/unittest_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="py.test for test_uninormal.test_carte_topic" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cnodeapiTest/testcases/.pytest_cache" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_uninormal.test_carte_topic&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test in test_topics.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cnodeapiTest/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/cnodeapiTest/testcases/test_topics.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python.first_ddt_case.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python.unittest_case.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_topics.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ootest_topics" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test_topics" />
+      <item index="5" class="java.lang.String" itemvalue="Python.common" />
+      <item index="6" class="java.lang.String" itemvalue="Python tests.py.test for test_uninormal.test_carte_topic" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_topics.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test_uninormal.test_carte_topic" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test_topics" />
+        <item index="3" class="java.lang.String" itemvalue="Python.common" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ootest_topics" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fa6b1c0-cfe8-46cf-beb3-b3db6140d9cc" name="Default" comment="" />
+      <created>1552487874925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552487874925</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_for_test_uninormal_test_carte_topic - 2021.03.14 at 22h 50m 45s.xml">
+      <configuration name="py.test for test_uninormal.test_carte_topic" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_uninormal_test_carte_topic - 2021.03.14 at 22h 51m 11s.xml">
+      <configuration name="py.test for test_uninormal.test_carte_topic" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_uninormal_test_carte_topic - 2021.03.14 at 22h 54m 39s.xml">
+      <configuration name="py.test for test_uninormal.test_carte_topic" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_topics_py - 2021.03.07 at 23h 56m 20s.xml">
+      <configuration name="py.test in test_topics.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_topics_py - 2021.03.08 at 22h 04m 28s.xml">
+      <configuration name="py.test in test_topics.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_topics_py - 2021.03.08 at 22h 06m 15s.xml">
+      <configuration name="py.test in test_topics.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_topics_py - 2021.03.08 at 22h 07m 25s.xml">
+      <configuration name="py.test in test_topics.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_topics_py - 2021.03.08 at 22h 09m 08s.xml">
+      <configuration name="py.test in test_topics.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_topics_py - 2021.03.08 at 22h 10m 14s.xml">
+      <configuration name="py.test in test_topics.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_topics_py - 2021.03.14 at 22h 56m 08s.xml">
+      <configuration name="py.test in test_topics.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59354836" sideWeight="0.5042644" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5096774" sideWeight="0.49573562" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32683983" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12313433" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39247313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/959216962/builtins.py</url>
+          <line>2892</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mooc_selenium/register_code.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="25" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mooc_selenium/util/read_ini.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc_selenium/util/excel_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="43" column="55" lean-forward="false" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc_selenium/config/LocalElement.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python37/Lib/site-packages/behave/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumPythonBDD/steps/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/mooc_selenium/case/keyword_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc_selenium/start_brrowser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumPythonBDD/steps/register_user.py" />
+    <entry file="file://$PROJECT_DIR$/SeleniumPythonBDD/features/steps/__init__.py" />
+    <entry file="file://D:/Program Files/Python37/Lib/site-packages/behave/step_registry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumPythonBDD/features/lib/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/SeleniumPythonBDD/features/environment.py" />
+    <entry file="file://$PROJECT_DIR$/SeleniumPythonBDD/features/lib/pages/register_page.py" />
+    <entry file="file://$PROJECT_DIR$/SeleniumPythonBDD/features/lib/pages/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/SeleniumPythonBDD/features/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/SeleniumPythonBDD/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/SeleniumPythonBDD/features/lib/pages/base_page.py" />
+    <entry file="file://$PROJECT_DIR$/SeleniumPythonBDD/features/register.feature" />
+    <entry file="file://$PROJECT_DIR$/SeleniumPythonBDD/features/steps/register_user.py" />
+    <entry file="file://$PROJECT_DIR$/SELNIUMPYTHONBDD/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/SELNIUMPYTHONBDD/features/lib/pages/base_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SELNIUMPYTHONBDD/features/lib/pages/register_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SELNIUMPYTHONBDD/features/steps/register_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc_selenium/log/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc_selenium/log/logs/2021-22-03.log" />
+    <entry file="file://$PROJECT_DIR$/mooc_selenium/log/logs/2021-25-03.log" />
+    <entry file="file://$PROJECT_DIR$/SELNIUMPYTHONBDD/features/register.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc_selenium/log/logs/2021-02-03.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python37/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12072">
+          <caret line="505" column="49" lean-forward="false" selection-start-line="505" selection-start-column="49" selection-end-line="505" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc_selenium/log/logs/test.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc_selenium/log/logs/2021-02-07.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7574">
+          <caret line="12" column="109" lean-forward="false" selection-start-line="12" selection-start-column="81" selection-end-line="12" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc_selenium/report/first_case.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc_selenium/case/first_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc_selenium/log/logs/2021-02-08.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_01/hm_02_字典.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_01/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_01/zouzhuwen_作业3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_01/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_01/maopao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc_selenium/log/user_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnodeapiTest/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc_selenium/keywordselenium/actionMethod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc_selenium/base/find_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc_selenium/handle/register_handle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnodeapiTest/testcases/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnodeapiTest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnodeapiTest/business/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python37/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="62" column="4" lean-forward="false" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnodeapiTest/business/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnodeapiTest/testcases/.pytest_cache/test_uninormal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnodeapiTest/testcases/test_topics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
